@@ -14,5 +14,5 @@
     Primary energy demo.
 </h4>
 <div style="text-align: center;">
-    <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/primary%20energy.gif" alt="Centered GIF">
+    <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/primary%20energy.gif" alt="Centered GIF style="width: 300px; height: 200px;">
 </div>

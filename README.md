@@ -2,7 +2,7 @@
 <h1 align="center">World Energy Statistics (1980-2022)</h1>
 <h3 align="left">Motivation</h3>
 <p1 style="text-align: justify;"> 
-    Technology is advancing rapidly, transforming lives in unprecedented ways, but none of this progress is possible without the backbone of power and electricity. Electricity and power generate from Coal, Oil, Natural Gas, Renewable Energy, Nuclear power etc. Electricity     and power are generated through various sources, including coal, oil, natural gas, renewable energy, and nuclear power, each playing a vital role in meeting global energy demands. This is a humble attempt to analyse and showcase energy data, focusing on its import,        export, consumption, and production patterns.
+    Technology is advancing at an extraordinary pace, revolutionizing the way we live, work, and interact with the world around us. From powering homes and businesses to enabling cutting-edge innovations, electricity and energy lie at the heart of this progress. However,      this remarkable transformation is impossible without the backbone of power and electricity, which are crucial for driving development and improving living standards. These essential resources are generated from a wide range of sources, including coal, oil, natural         gas, renewable energy, and nuclear power. Each of these energy sources plays a pivotal role in sustaining global demands, supporting economies, and ensuring a reliable supply of energy across nations.
 </p1>
 <h3 align = "left"> 
     Objective 

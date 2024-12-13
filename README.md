@@ -1,3 +1,4 @@
 <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/Banner.png" width="2000" height="90" alt="GIF animation">
 <h1 align="center">World Energy Statistics (1980-2022)</h1>
-<h3 align="Left">Motivation</h3>
+<h3 align="left">Motivation</h3>
+<p1 align = "left"> Technology is advancing rapidly, transforming lives in unprecedented ways, but none of this progress is possible without the backbone of power and electricity. Electricity and power generate from Coal, Oil, Natural Gas, Renewable Energy, Nuclear power etc. Electricity and power are generated through various sources, including coal, oil, natural gas, renewable energy, and nuclear power, each playing a vital role in meeting global energy demands. This is a humble attempt to analyse and showcase energy data, focusing on its import, export, consumption, and production patterns.</p1>

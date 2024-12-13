@@ -32,9 +32,13 @@ The <a href = "https://www.iea.org/">IEA (International Energy Agency) </a>, est
     CO2 emission
 </h3>
 <p align="left">
-    The issue of CO2 emissions from fossil fuels is a critical environmental concern with far-reaching implications for our planet’s climate. Fossil fuels—such as coal, oil, and natural gas—when burned, release significant amounts of carbon dioxide (CO2) into the atmosphere. These emissions contribute to the greenhouse effect, trapping heat and leading to global warming. The relentless combustion of fossil fuels for energy, transportation, and industrial activities has been the primary driver of the increase in atmospheric CO2 concentrations over the past century. This surge in CO2 levels not only accelerates climate change but also amplifies risks of extreme weather events, rising sea levels, and loss of biodiversity. Addressing this issue requires urgent global action, including the transition to cleaner energy sources, improved energy efficiency, and innovative technologies to capture and store CO2 emissions. Reducing our reliance on fossil fuels is not only critical for mitigating climate change but also for ensuring a sustainable future for generations to come.
+    CO2 emissions from fossil fuels are a major environmental challenge, contributing significantly to global warming and climate change. The burning of coal, oil, and natural gas releases large amounts of CO2, which traps heat in the atmosphere and leads to increased temperatures, extreme weather events, and rising sea levels. Addressing this issue requires a global shift towards cleaner energy sources, enhanced efficiency, and technologies that capture and store CO2 emissions. Reducing our dependence on fossil fuels is essential for a sustainable future.
 </p>
 <div align="center">
     <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/Co2.gif">
 </div>
-    
+
+<h3 align="left">
+    Sample Dashboard
+</h3>    
+<img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Dashboard/Others/All.jpg">

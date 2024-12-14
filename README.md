@@ -34,7 +34,25 @@ The <a href = "https://www.iea.org/">IEA (International Energy Agency) </a>, est
 <div align="center">
     <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/Co2.gif">
 </div>
+<h3 align="left">
+    Key Highlights
+</h3>
+<p align="left">
+    <b>Coal:</b><br>
+    Between 1980 and 2020, Asia solidified its dominance in coal production and consumption, with China leading the charge. During this period, China's coal production and consumption reached staggering levels, accounting for 39% and 41% of the continent's totals, respectively. India followed as a significant contributor, with coal production and consumption at 5.44% and 6.73%, respectively. Globally, coal usage surged by almost 2% from 2021 to 2022, underscoring its continued relevance in the energy landscape. Among various coal types, bituminous coal emerged as the most utilized in primary energy production. The top three coal-consuming nations worldwide are China, the United States, and India, cementing their positions as energy powerhouses. 
+</p>
+<p align="left">
+    <b>Petroleum and Others liquids:</b><br>
+    During the period mentioned, the United States emerged as the largest consumer of petroleum, with a staggering consumption of approximately 1,530 quadrillion BTUs—accounting for nearly 22% of the world's total petroleum usage. In terms of production, the U.S. contributed 820 quadrillion BTUs. Alongside the United States, Saudi Arabia and India are among the top three petroleum-consuming nations globally. Saudi Arabia alone accounted for 12.49% of the world's petroleum production and consumption. Furthermore, global petroleum usage saw a notable increase of approximately 1.7% between 2021 and 2022, emphasizing the growing demand for energy resources worldwide.
+</p>
+<p align="left">
+    <b>Electricity:</b><br>
+    In 2022, renewable energy accounted for almost 30% of global electricity generation, marking an 8% increase from 2021, while fossil fuels still dominated with 60%. China, the United States, and Brazil were leaders in renewable electricity, contributing 14%, 11%, and 16%, respectively. Solar power saw continuous growth, reinforcing its role in the energy mix, while nuclear power generation declined by 3% compared to the previous year. This highlights the steady global transition toward cleaner energy, despite fossil fuels maintaining a significant share.
+</p>
 
+<div align="center">
+    <img src="https://github.com/Suman-Adhikary/World-Energy-Outlook/blob/main/Data/Key%20Highlights.png">
+</div>
 <h3 align="left">
     Sample Dashboard
 </h3>    
